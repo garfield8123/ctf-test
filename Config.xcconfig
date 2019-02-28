@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  swiftris
+//
+//  Created by garfield yang on 2/27/19.
+//  Copyright © 2019 Suha Baobaid. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BUNDLE_ID = <identifier>.swiftris
+PRODUCT_BUNDLE_IDENTIFIER = <identifier>.swiftris
+
